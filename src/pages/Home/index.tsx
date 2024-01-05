@@ -13,12 +13,11 @@ type OptionType = {
 }
 
 const options: OptionType[] = [
-  { value: 'opcao1', label: 'Opção 1' },
-  { value: 'opcao2', label: 'Opção 2' },
-  { value: 'opcao3', label: 'Opção 3' },
-  { value: 'opcao4', label: 'Opção 4' },
-  { value: 'opcao5', label: 'Opção 5' },
-  { value: 'opcao6', label: 'Opção 6' },
+  { value: 'QG Ind', label: 'QG Ind' },
+  { value: 'Supremy', label: 'Supremy' },
+  { value: 'Coneflan', label: 'Coneflan' },
+  { value: 'Sider', label: 'Sider' },
+  { value: 'MGA', label: 'MGA' },
 ]
 
 export const Home = () => {
