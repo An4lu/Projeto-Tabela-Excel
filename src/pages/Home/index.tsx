@@ -4,7 +4,6 @@ import { Select } from '../../components/Select'
 import { Back, Button, Div, Form, Line, LineData, Title } from './styles'
 import { InputData } from '../../components/InputData'
 import { MultiSelect } from '../../components/MultiSelect'
-import { saveAs } from 'file-saver'
 import dayjs, { Dayjs } from 'dayjs'
 import * as XLSX from 'xlsx'
 
